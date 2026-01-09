@@ -36,9 +36,13 @@ This is critical when data is later used for trend analysis or policy-relevant r
 **Repository Structure**
 
 ├── README.md                       # Overview and methodology
+
 ├── methodology.md                  # Evidence extraction and evaluation approach
+
 ├── paper_parsing_template.xlsx     # Template for parsing ML papers
+
 ├── benchmark_tracking_example.csv  # Example benchmark comparison table
+
 └── infrastructure_notes.md         # Compute and hardware estimation notes
 
 All files are designed to be readable, auditable, and easy to extend.
