@@ -1,4 +1,4 @@
-# Epoch-focused evidence tracking README
+## Epoch-focused evidence tracking README
 Research-oriented workflow for tracking AI trends, benchmarks, and infrastructure inputs 
 
 **Purpose**
